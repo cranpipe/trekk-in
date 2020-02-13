@@ -111,12 +111,12 @@
         <div class="col-12 col-md-6">
           <section class="caracteristicas__grafico the-container">
             <ul>
-              <li><a id="bar1" href="#" class="tooltip"></a></li>
-              <li><a id="bar2" href="#" class="tooltip"></a></li>
-              <li><a id="bar3" href="#" class="tooltip"></a></li>
-              <li><a id="bar4" href="#" class="tooltip"></a></li>
-              <li><a id="bar5" href="#" class="tooltip"></a></li>
-              <li><a id="bar6" href="#" class="tooltip"></a></li>
+              <li class="li"><a id="bar1" href="#" class="tooltip"></a></li>
+              <li class="li"><a id="bar2" href="#" class="tooltip"></a></li>
+              <li class="li"><a id="bar3" href="#" class="tooltip"></a></li>
+              <li class="li"><a id="bar4" href="#" class="tooltip"></a></li>
+              <li class="li"><a id="bar5" href="#" class="tooltip"></a></li>
+              <li class="li"><a id="bar6" href="#" class="tooltip"></a></li>
             </ul>
           </section>
           <hr id="linea">
